@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "498836630298",
+    "project_id": "pickupbay-1",
+    "storage_bucket": "pickupbay-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498836630298:android:88d4872cd1191ffb501aa3",
+        "android_client_info": {
+          "package_name": "com.godwindev.pushnotificationtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWLxGTV_mvDjh3n0hIg1cDvOARMVHVkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498836630298:android:1fb01e1c52e273f3501aa3",
+        "android_client_info": {
+          "package_name": "com.thepickupbay.pickupbay"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWLxGTV_mvDjh3n0hIg1cDvOARMVHVkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498836630298:android:d28b17f636e08877501aa3",
+        "android_client_info": {
+          "package_name": "com.thepickupbay.pickupbay.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZWLxGTV_mvDjh3n0hIg1cDvOARMVHVkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
